@@ -6,7 +6,6 @@
   "permissions": [
     "contextMenus",
     "scripting",
-    "tabs",
     "notifications"  
   ],
   "host_permissions": ["https://real-debrid.com/*"],
