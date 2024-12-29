@@ -12,4 +12,4 @@ Perfect for users who regularly use Real-Debrid to access torrents seamlessly an
 
 
 # Screenshots
-![Button in context menu](https://github.com/f1shpie/OMLiRD-chrome-extension/blob/chrome-extension/files/screenshot1.png?raw=true) ![Real Debrid torrent page](https://github.com/f1shpie/OMLiRD-chrome-extension/blob/chrome-extension/files/screenshot2.jpg?raw=true)
+![Button in context menu](https://github.com/f1shpie/OMLiRD-chrome-extension/blob/main/files/screenshot1.png?raw=true) ![Real Debrid torrent page](https://github.com/f1shpie/OMLiRD-chrome-extension/blob/main/files/screenshot2.jpg?raw=true)
