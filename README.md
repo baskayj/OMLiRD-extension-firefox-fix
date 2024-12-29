@@ -1,4 +1,4 @@
-![Open magnet links in Real-Debrid](https://github.com/f1shpie/OMLiRD-chrome-extension/blob/chrome-extension/files/icon.svg) 
+![Open magnet links in Real-Debrid](https://github.com/f1shpie/OMLiRD-chrome-extension/blob/main/files/icon.svg) 
 # Open magnet links in Real-Debrid
 [![Chrome Web Store Version](https://img.shields.io/chrome-web-store/v/hllbagncpmengihmigbedbjmmjmopcom)](https://chromewebstore.google.com/detail/open-magnet-links-in-real/hllbagncpmengihmigbedbjmmjmopcom)
 <!-- ![Mozilla Add-on Version](https://img.shields.io/amo/v/omlird) -->
